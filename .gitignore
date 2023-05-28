@@ -164,3 +164,7 @@ Coppelia*
 
 # Video files
 *.mov
+*.avi
+
+# Movement recordings
+*.record
